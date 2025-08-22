@@ -1,7 +1,7 @@
 Full-stack CRUD app for songs with statistics (per genre/artist/album).
 Frontend: React + TypeScript + Redux Toolkit + Redux-Saga + Emotion + Styled System
 Backend: Node + Express + MongoDB (Mongoose)
-Bonus: Genre filter + optional Docker + deploy
+Genre filter + optional Docker 
 
 ⸻
 
